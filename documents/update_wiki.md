@@ -13,15 +13,17 @@ If you have any resources/tools/knowledge you think others might find useful. Pl
 
 ### Contributing to This Wiki
 
+{: .important}
+> In order to be able to contribute to the wiki you will need to have a GitHub account. Hence, before trying to make any edits you can create your own account. **TIP**: if you use your educational email you might be able to access special feature for free. 
+
 If you have never used GitHub before, please go to the [Technical Help]({% link documents/technical-help/software/reproducible_code.md %}) page of the wiki and check our resources on how to use GitHub. **You do not need to be an expert on GitHub to be able to edit this website**. It should take max. _30 minutes_ of your time to understand how to use the basic functions (_e.g.,_ creating an account, forking a repository, pull request, etc) and be able to edit this page. 
 
 #### Step-by-Step 
 
 1. Go to the repository where the wiki is hosted ([here](https://github.com/Predictive-Brain-Lab/Lab-Wiki))
-2. Fork the repository (_ie.,_ personal new repository that share the code with original repository) -- [_forks are used to propose changes to someone else's code._](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
-3. Clone the fork to your own personal GitHub account. _Note_: You must have a personal GitHub account to edit this wiki.
-4. Once you have succesfully forked the repository, browse through the _Files_ tab on the left side of the website screen displaying the different files linked to that repository. The structure should be self-explanatory as clear labels and folders have been used. These files are the different components of the wiki. Those ending with `.md` are Markdown files and contain the content displayed in the wiki. These are the ones that you will be editing (if you do not know how to use Markdown, see our [how_to_markdown]({% link documents/how-to-markdown.md %}) file containing different function examples or find more information online) 
-5. Find the `.md` file you want to edit or create a new one using the following header:
+2. Fork the repository to your own account (_ie.,_ personal new repository that share the code with original repository) -- [_forks are used to propose changes to someone else's code._](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
+3. Once you have succesfully forked the repository, browse through the _Files_ tab on the left side of the website screen displaying the different files linked to that repository. The structure should be self-explanatory as clear labels and folders have been used. These files are the different components of the wiki. Those ending with `.md` are Markdown files and contain the content displayed in the wiki. These are the ones that you will be editing (if you do not know how to use Markdown, see our [how_to_markdown]({% link documents/how-to-markdown.md %}) file containing different function examples or find more information online) 
+4. Find the `.md` file you want to edit or create a new one using the following header:
 ```
 --- 
 layout: default
