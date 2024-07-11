@@ -12,7 +12,8 @@ We are based at the [Donders Institue for Brain, Cognition and Behaviour](https:
 This wiki is the result of the efforts of the PI [Floris de Lange](https://www.predictivebrainlab.com/people/floris-de-lange) and [current and previous members of the lab](https://www.predictivebrainlab.com/people). For information regarding our team, research, and publications you can see our [website](https://www.predictivebrainlab.com/). 
 
 The current wiki has been inspired by the work of some of our colleagues ([Anne Urai](https://anne-urai.github.io/lab_wiki/Practical.html), [Mariam Aly](https://osf.io/mdh87/wiki/Stimuli/), [Liad Mudrik](https://osf.io/5kfrc/wiki/home/), and [Steve Fleming](https://metacoglab.github.io/lab_wiki/)). Thank you for sharing your resources. 
-This document is a work in progress. If you find important information missing, unclear, or outdated, please notify us or request an update!
+
+This document is a work in progress. If you find important information missing, unclear, or outdated, please notify us or request an update! Or even better, contribute to the Wiki yourself (see below for how to contribute). 
 
 We hope you have a great time during your stay in the lab and that this lab wiki is useful for you!
 
