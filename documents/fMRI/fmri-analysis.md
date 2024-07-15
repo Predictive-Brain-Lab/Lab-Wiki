@@ -43,6 +43,11 @@ It combines tools from well-known software packages for analyzing this type of d
 The advantage of using this tool is that developers are constantly optimizing the pipeline. Modifying the preprocessing steps for it to match with the software that currently performs these steps as best as possible. Additionally, it automatizes and parallelizes processing steps, which provides a significant speed-up from manual processing or shell-scripted pipelines.
 
 ## Analysis
+
+{: .important}
+> In this wiki, we are highlighting two resources to perform your fMRI analysis: **fMRIprep and FSL**. Importantly, if you want to make use of these two resources together you need to do an **extra** intermediate step. **Why?** Using FEAT after fMRIprep requires bypassing the normalization process that FEAT performs, otherwise FSL undoes the normalization done by fMRIprep. **How do I solve this?** Luckily enough, Jeanette Mumford has created both a [blogpost](https://mumfordbrainstats.tumblr.com/post/166054797696/feat-registration-workaround) and a [video](https://www.youtube.com/watch?v=U3tG7JMEf7M) explaining more in detail what the problem is and how to solve it. So please, take a look at the resources highlighted above to not run into any problems when doing your analysis. 
+
+
 ### Univariate Analysis (First- and Higher-Level Analysis)
 
 If you are already familiar with performing univariate analysis at the single/first level, the following resource provides you with a great overview of all the relevant terms you will be employing if you decide to make use of FSL: [First-Level Analysis](https://fsl.fmrib.ox.ac.uk/fsl/docs/#/task_fmri/feat/user_guide?id=first-level-analysis)
