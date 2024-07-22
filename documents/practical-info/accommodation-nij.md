@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Accommodation in Nijmegen
-parent: Pratical Information
+parent: Practical Information
 nav_order: 1
 ---
 
