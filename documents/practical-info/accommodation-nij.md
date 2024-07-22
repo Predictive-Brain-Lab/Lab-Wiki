@@ -36,6 +36,7 @@ Here are some tips to follow in order to successfully find a place to stay:
   * The safest option is to purchase a room via external organizations like Kamernet (not through direct bank transfers).
   * Deceivers may want to contact you using Messenger/WhatsApp. It looks usually like this:
   ![image](https://github.com/user-attachments/assets/6ac7a0e4-4a2f-4a32-974f-bf9fa5c4e179)
+
   Then they use a second account, mostly on WhatsApp, where they provide you with photos of a fake room and a suspicious-looking contract.
   If everything is done using unofficial channels and they don't agree to a viewing or insist on meeting in person
   (especially since many people are looking for flats from abroad), then you're most probably dealing with scammers.
