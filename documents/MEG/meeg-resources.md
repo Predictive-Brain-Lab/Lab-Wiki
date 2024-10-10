@@ -60,6 +60,9 @@ You can find the current schedule [here](https://www.ru.nl/en/donders-institute/
 
 - Series of videos on Neural Signal Processing and Analysis by Mike X Cohen (used to be a researcher at the Donders). You can find them, [here](https://www.youtube.com/playlist?list=PLn0OLiymPak0t1moK3sn4Sl1seXlEOPHT)
 
+- [Introduction to EEG/MEG Data Analysis](https://www.youtube.com/playlist?list=PLp67eqWCj2f_DBsCMkIOBpBbLWGAUKtu5) - A recently released (2024) series of videos by the head of the M/EEG deparment at Cambridge, Olaf Hauk. It goes through some of the most important concepts for analyzing this type of data. 
+
+
 ### Courses
 
 - [MNE Tutorial Series](https://mne.tools/stable/auto_tutorials/index.html) - Their website provides explanations, sample code, and expected output for the most common types of analysis in M/EEG. They have very clear and thorough explanations, though at the expense of not having too many topics being explained. 
