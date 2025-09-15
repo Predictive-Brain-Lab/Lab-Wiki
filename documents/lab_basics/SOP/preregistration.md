@@ -7,7 +7,7 @@ nav_order: 3
 ---
 
 # Preregistration and Reproducibility
-For the Predictive Lab's stance on Open Science practices and preregistration please refer to our [handbook](https://drive.google.com/file/d/1RMTpcPl8lwJ6Ozf3QIlTaehedsL_tSUC/view)
+For the Predictive Lab's stance on Open Science practices and preregistration please refer to our [handbook](https://drive.google.com/file/d/13JbOBwUpk7VZnzmkKABwjEH577l5s3Ku/view)
 
 ## Preregistration
 
