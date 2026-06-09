@@ -2,7 +2,7 @@
 layout: default
 title: Lab Calendar
 parent: Practical Information
-nav_order: 1
+nav_order: 3
 ---
 
 # Adding the Lab and Floris's Calendar
